@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Joel Christner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("(c)2020 Joel Christner")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Just a simple library to test -IncludeReferencedProjects")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Just a simple library to test inclusion of referenced project assets")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("NuGetPackTest")]

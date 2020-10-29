@@ -9,3 +9,4 @@ c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Debug\netcoreapp3.0\NuGetPackTest.A
 c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Debug\netcoreapp3.0\NuGetPackTest.csproj.CopyComplete
 c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Debug\netcoreapp3.0\NuGetPackTest.dll
 c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Debug\netcoreapp3.0\NuGetPackTest.pdb
+C:\Code\Misc\NuGetPackTest\NuGetPackTest\bin\Debug\netcoreapp3.0\LICENSE.md

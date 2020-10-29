@@ -3,40 +3,38 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "NuGetPackTest/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "TestLibrary": "1.0.0"
-        },
+        "type": "package",
         "compile": {
-          "bin/placeholder/NuGetPackTest.dll": {}
+          "lib/netcoreapp3.1/NuGetPackTest.dll": {},
+          "lib/netcoreapp3.1/TestLibrary.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NuGetPackTest.dll": {}
-        }
-      },
-      "TestLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/_._": {}
-        },
-        "runtime": {
-          "bin/placeholder/_._": {}
+          "lib/netcoreapp3.1/NuGetPackTest.dll": {},
+          "lib/netcoreapp3.1/TestLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "NuGetPackTest/1.0.0": {
-      "type": "project",
-      "path": "../NuGetPackTest/NuGetPackTest.csproj",
-      "msbuildProject": "../NuGetPackTest/NuGetPackTest.csproj"
-    },
-    "TestLibrary/1.0.0": {
-      "type": "project",
-      "path": "../TestLibrary/TestLibrary.csproj",
-      "msbuildProject": "../TestLibrary/TestLibrary.csproj"
+      "sha512": "dJiW8J4WE87VzG7xE4gG8jg52F3VK/NXVpHFsa/FZDzXuglM2y03cMtQu6huvlLuwV1+YSWaBGwjOuMkbpaa7w==",
+      "type": "package",
+      "path": "nugetpacktest/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net461/NuGetPackTest.dll",
+        "lib/net461/TestLibrary.dll",
+        "lib/netcoreapp3.0/NuGetPackTest.dll",
+        "lib/netcoreapp3.0/TestLibrary.dll",
+        "lib/netcoreapp3.1/NuGetPackTest.dll",
+        "lib/netcoreapp3.1/TestLibrary.dll",
+        "lib/netstandard2.0/NuGetPackTest.dll",
+        "lib/netstandard2.0/TestLibrary.dll",
+        "nugetpacktest.1.0.0.nupkg.sha512",
+        "nugetpacktest.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -52,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\code\\misc\\NuGetPackTest\\FooTest\\FooTest.csproj",
+      "projectUniqueName": "C:\\Code\\Misc\\NuGetPackTest\\FooTest\\FooTest.csproj",
       "projectName": "FooTest",
-      "projectPath": "c:\\code\\misc\\NuGetPackTest\\FooTest\\FooTest.csproj",
+      "projectPath": "C:\\Code\\Misc\\NuGetPackTest\\FooTest\\FooTest.csproj",
       "packagesPath": "C:\\Users\\joelc\\.nuget\\packages\\",
-      "outputPath": "c:\\code\\misc\\NuGetPackTest\\FooTest\\obj\\",
+      "outputPath": "C:\\Code\\Misc\\NuGetPackTest\\FooTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -76,11 +74,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {
-            "c:\\code\\misc\\NuGetPackTest\\NuGetPackTest\\NuGetPackTest.csproj": {
-              "projectPath": "c:\\code\\misc\\NuGetPackTest\\NuGetPackTest\\NuGetPackTest.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -91,6 +85,12 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "dependencies": {
+          "NuGetPackTest": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NuGetPackTest\NuGetPackTest.csproj" />
+    <PackageReference Include="NuGetPackTest" Version="1.0.0" />
   </ItemGroup>
 
   <ItemGroup>

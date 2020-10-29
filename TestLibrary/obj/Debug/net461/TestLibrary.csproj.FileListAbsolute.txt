@@ -5,3 +5,4 @@ c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\net461\TestLibrary.AssemblyInfo
 c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\net461\TestLibrary.AssemblyInfo.cs
 c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\net461\TestLibrary.dll
 c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\net461\TestLibrary.pdb
+C:\Code\Misc\NuGetPackTest\TestLibrary\bin\Debug\net461\LICENSE.md

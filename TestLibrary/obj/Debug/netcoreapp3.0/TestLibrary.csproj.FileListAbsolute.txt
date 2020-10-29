@@ -6,3 +6,4 @@ c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\netcoreapp3.0\TestLibrary.Assem
 c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\netcoreapp3.0\TestLibrary.AssemblyInfo.cs
 c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\netcoreapp3.0\TestLibrary.dll
 c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\netcoreapp3.0\TestLibrary.pdb
+C:\Code\Misc\NuGetPackTest\TestLibrary\bin\Debug\netcoreapp3.0\LICENSE.md

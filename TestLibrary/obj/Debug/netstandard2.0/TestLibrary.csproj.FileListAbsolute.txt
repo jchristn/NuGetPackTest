@@ -7,3 +7,4 @@ c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.Asse
 c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.AssemblyInfo.cs
 c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.dll
 c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.pdb
+C:\Code\Misc\NuGetPackTest\TestLibrary\bin\Debug\netstandard2.0\LICENSE.md

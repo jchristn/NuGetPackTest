@@ -11,3 +11,4 @@ c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Debug\netstandard2.0\NuGetPackTest.
 c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Debug\netstandard2.0\NuGetPackTest.csproj.CopyComplete
 c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Debug\netstandard2.0\NuGetPackTest.dll
 c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Debug\netstandard2.0\NuGetPackTest.pdb
+C:\Code\Misc\NuGetPackTest\NuGetPackTest\bin\Debug\netstandard2.0\LICENSE.md

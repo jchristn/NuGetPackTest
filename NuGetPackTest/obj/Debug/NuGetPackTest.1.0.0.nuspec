@@ -9,28 +9,25 @@
     <license type="file">LICENSE.md</license>
     <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
     <projectUrl>https://github.com/jchristn/NuGetPackTest</projectUrl>
-    <description>Just a simple library to test -IncludeReferencedProjects</description>
+    <description>Just a simple library to test inclusion of referenced project assets</description>
     <copyright>(c)2020 Joel Christner</copyright>
     <repository type="github" url="https://github.com/jchristn/NuGetPackTest" />
     <dependencies>
-      <group targetFramework=".NETFramework4.6.1">
-        <dependency id="TestLibrary" version="1.0.0" exclude="Build,Analyzers" />
-      </group>
-      <group targetFramework=".NETCoreApp3.0">
-        <dependency id="TestLibrary" version="1.0.0" exclude="Build,Analyzers" />
-      </group>
-      <group targetFramework=".NETCoreApp3.1">
-        <dependency id="TestLibrary" version="1.0.0" exclude="Build,Analyzers" />
-      </group>
-      <group targetFramework=".NETStandard2.0">
-        <dependency id="TestLibrary" version="1.0.0" exclude="Build,Analyzers" />
-      </group>
+      <group targetFramework=".NETFramework4.6.1" />
+      <group targetFramework=".NETCoreApp3.0" />
+      <group targetFramework=".NETCoreApp3.1" />
+      <group targetFramework=".NETStandard2.0" />
     </dependencies>
   </metadata>
   <files>
+    <file src="C:\Code\Misc\NuGetPackTest\TestLibrary\bin\Debug\net461\TestLibrary.dll" target="lib\net461\TestLibrary.dll" />
     <file src="C:\Code\Misc\NuGetPackTest\NuGetPackTest\bin\Debug\net461\NuGetPackTest.dll" target="lib\net461\NuGetPackTest.dll" />
+    <file src="C:\Code\Misc\NuGetPackTest\TestLibrary\bin\Debug\netcoreapp3.0\TestLibrary.dll" target="lib\netcoreapp3.0\TestLibrary.dll" />
     <file src="C:\Code\Misc\NuGetPackTest\NuGetPackTest\bin\Debug\netcoreapp3.0\NuGetPackTest.dll" target="lib\netcoreapp3.0\NuGetPackTest.dll" />
+    <file src="C:\Code\Misc\NuGetPackTest\TestLibrary\bin\Debug\netcoreapp3.1\TestLibrary.dll" target="lib\netcoreapp3.1\TestLibrary.dll" />
     <file src="C:\Code\Misc\NuGetPackTest\NuGetPackTest\bin\Debug\netcoreapp3.1\NuGetPackTest.dll" target="lib\netcoreapp3.1\NuGetPackTest.dll" />
+    <file src="C:\Code\Misc\NuGetPackTest\TestLibrary\bin\Debug\netstandard2.0\TestLibrary.dll" target="lib\netstandard2.0\TestLibrary.dll" />
+    <file src="C:\Code\Misc\NuGetPackTest\TestLibrary\bin\Debug\netstandard2.0\TestLibrary.xml" target="lib\netstandard2.0\TestLibrary.xml" />
     <file src="C:\Code\Misc\NuGetPackTest\NuGetPackTest\bin\Debug\netstandard2.0\NuGetPackTest.dll" target="lib\netstandard2.0\NuGetPackTest.dll" />
     <file src="C:\Code\Misc\NuGetPackTest\NuGetPackTest\bin\Debug\netstandard2.0\NuGetPackTest.xml" target="lib\netstandard2.0\NuGetPackTest.xml" />
     <file src="C:\Code\Misc\NuGetPackTest\NuGetPackTest\LICENSE.md" target="LICENSE.md" />

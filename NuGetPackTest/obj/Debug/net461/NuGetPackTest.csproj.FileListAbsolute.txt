@@ -8,3 +8,4 @@ c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Debug\net461\NuGetPackTest.Assembly
 c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Debug\net461\NuGetPackTest.csproj.CopyComplete
 c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Debug\net461\NuGetPackTest.dll
 c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Debug\net461\NuGetPackTest.pdb
+C:\Code\Misc\NuGetPackTest\NuGetPackTest\bin\Debug\net461\LICENSE.md

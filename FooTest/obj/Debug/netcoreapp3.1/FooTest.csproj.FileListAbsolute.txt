@@ -6,8 +6,6 @@ c:\code\misc\NuGetPackTest\FooTest\bin\Debug\netcoreapp3.1\FooTest.dll
 c:\code\misc\NuGetPackTest\FooTest\bin\Debug\netcoreapp3.1\FooTest.pdb
 c:\code\misc\NuGetPackTest\FooTest\bin\Debug\netcoreapp3.1\NuGetPackTest.dll
 c:\code\misc\NuGetPackTest\FooTest\bin\Debug\netcoreapp3.1\TestLibrary.dll
-c:\code\misc\NuGetPackTest\FooTest\bin\Debug\netcoreapp3.1\NuGetPackTest.pdb
-c:\code\misc\NuGetPackTest\FooTest\bin\Debug\netcoreapp3.1\TestLibrary.pdb
 c:\code\misc\NuGetPackTest\FooTest\obj\Debug\netcoreapp3.1\FooTest.csprojAssemblyReference.cache
 c:\code\misc\NuGetPackTest\FooTest\obj\Debug\netcoreapp3.1\FooTest.AssemblyInfoInputs.cache
 c:\code\misc\NuGetPackTest\FooTest\obj\Debug\netcoreapp3.1\FooTest.AssemblyInfo.cs
@@ -15,3 +13,4 @@ c:\code\misc\NuGetPackTest\FooTest\obj\Debug\netcoreapp3.1\FooTest.csproj.CopyCo
 c:\code\misc\NuGetPackTest\FooTest\obj\Debug\netcoreapp3.1\FooTest.dll
 c:\code\misc\NuGetPackTest\FooTest\obj\Debug\netcoreapp3.1\FooTest.pdb
 c:\code\misc\NuGetPackTest\FooTest\obj\Debug\netcoreapp3.1\FooTest.genruntimeconfig.cache
+C:\Code\Misc\NuGetPackTest\FooTest\bin\Debug\netcoreapp3.1\LICENSE.md

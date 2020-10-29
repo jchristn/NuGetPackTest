@@ -15,16 +15,12 @@
         }
       },
       "NuGetPackTest/1.0.0": {
-        "dependencies": {
-          "TestLibrary": "1.0.0"
-        },
         "runtime": {
-          "NuGetPackTest.dll": {}
-        }
-      },
-      "TestLibrary.Reference/1.0.0.0": {
-        "runtime": {
-          "TestLibrary.dll": {
+          "lib/netcoreapp3.1/NuGetPackTest.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netcoreapp3.1/TestLibrary.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -39,14 +35,11 @@
       "sha512": ""
     },
     "NuGetPackTest/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "TestLibrary.Reference/1.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dJiW8J4WE87VzG7xE4gG8jg52F3VK/NXVpHFsa/FZDzXuglM2y03cMtQu6huvlLuwV1+YSWaBGwjOuMkbpaa7w==",
+      "path": "nugetpacktest/1.0.0",
+      "hashPath": "nugetpacktest.1.0.0.nupkg.sha512"
     }
   }
 }
