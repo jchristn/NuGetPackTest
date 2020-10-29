@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g8Qq+ky0YWcOIla338pZvqbhRJoH5irBT9R4rLnophSFvdgNex01jE399ZCj5nHcGvRnEclNyZR+5JId5XX4hg==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Misc\\NuGetPackTest\\NuGetPackTest\\NuGetPackTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\joelc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

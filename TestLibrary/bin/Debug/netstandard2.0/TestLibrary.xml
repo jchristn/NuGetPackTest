@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:TestLibrary.FooModule">
+            <summary>
+            It's foo.
+            </summary>
+        </member>
+        <member name="M:TestLibrary.FooModule.Add(System.Int32,System.Int32)">
+            <summary>
+            Adds y to x.
+            </summary>
+            <param name="x">Integer.</param>
+            <param name="y">Integer.</param>
+            <returns>Integer.</returns>
+        </member>
+        <member name="M:TestLibrary.FooModule.Subtract(System.Int32,System.Int32)">
+            <summary>
+            Subtract x from y.
+            </summary>
+            <param name="x">Integer.</param>
+            <param name="y">Integer.</param>
+            <returns>Integer.</returns>
+        </member>
+        <member name="M:TestLibrary.FooModule.#ctor">
+            <summary>
+            Give me life!
+            </summary>
+        </member>
+    </members>
+</doc>

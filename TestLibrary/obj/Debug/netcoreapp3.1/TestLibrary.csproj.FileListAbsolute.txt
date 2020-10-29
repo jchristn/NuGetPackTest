@@ -1,0 +1,8 @@
+c:\code\misc\NuGetPackTest\TestLibrary\bin\Debug\netcoreapp3.1\TestLibrary.deps.json
+c:\code\misc\NuGetPackTest\TestLibrary\bin\Debug\netcoreapp3.1\TestLibrary.dll
+c:\code\misc\NuGetPackTest\TestLibrary\bin\Debug\netcoreapp3.1\TestLibrary.pdb
+c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.csprojAssemblyReference.cache
+c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.AssemblyInfoInputs.cache
+c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.AssemblyInfo.cs
+c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.dll
+c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\netcoreapp3.1\TestLibrary.pdb

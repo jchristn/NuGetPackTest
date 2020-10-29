@@ -1,0 +1,8 @@
+c:\code\misc\NuGetPackTest\TestLibrary\bin\Release\net461\LICENSE.md
+c:\code\misc\NuGetPackTest\TestLibrary\bin\Release\net461\TestLibrary.dll
+c:\code\misc\NuGetPackTest\TestLibrary\bin\Release\net461\TestLibrary.pdb
+c:\code\misc\NuGetPackTest\TestLibrary\obj\Release\net461\TestLibrary.csprojAssemblyReference.cache
+c:\code\misc\NuGetPackTest\TestLibrary\obj\Release\net461\TestLibrary.AssemblyInfoInputs.cache
+c:\code\misc\NuGetPackTest\TestLibrary\obj\Release\net461\TestLibrary.AssemblyInfo.cs
+c:\code\misc\NuGetPackTest\TestLibrary\obj\Release\net461\TestLibrary.dll
+c:\code\misc\NuGetPackTest\TestLibrary\obj\Release\net461\TestLibrary.pdb

@@ -1,0 +1,10 @@
+c:\code\misc\NuGetPackTest\NuGetPackTest\bin\Debug\net461\NuGetPackTest.dll
+c:\code\misc\NuGetPackTest\NuGetPackTest\bin\Debug\net461\NuGetPackTest.pdb
+c:\code\misc\NuGetPackTest\NuGetPackTest\bin\Debug\net461\TestLibrary.dll
+c:\code\misc\NuGetPackTest\NuGetPackTest\bin\Debug\net461\TestLibrary.pdb
+c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Debug\net461\NuGetPackTest.csprojAssemblyReference.cache
+c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Debug\net461\NuGetPackTest.AssemblyInfoInputs.cache
+c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Debug\net461\NuGetPackTest.AssemblyInfo.cs
+c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Debug\net461\NuGetPackTest.csproj.CopyComplete
+c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Debug\net461\NuGetPackTest.dll
+c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Debug\net461\NuGetPackTest.pdb

@@ -1,0 +1,12 @@
+c:\code\misc\NuGetPackTest\NuGetPackTest\bin\Release\netstandard2.0\LICENSE.md
+c:\code\misc\NuGetPackTest\NuGetPackTest\bin\Release\netstandard2.0\NuGetPackTest.deps.json
+c:\code\misc\NuGetPackTest\NuGetPackTest\bin\Release\netstandard2.0\NuGetPackTest.dll
+c:\code\misc\NuGetPackTest\NuGetPackTest\bin\Release\netstandard2.0\NuGetPackTest.pdb
+c:\code\misc\NuGetPackTest\NuGetPackTest\bin\Release\netstandard2.0\TestLibrary.dll
+c:\code\misc\NuGetPackTest\NuGetPackTest\bin\Release\netstandard2.0\TestLibrary.pdb
+c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Release\netstandard2.0\NuGetPackTest.csprojAssemblyReference.cache
+c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Release\netstandard2.0\NuGetPackTest.AssemblyInfoInputs.cache
+c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Release\netstandard2.0\NuGetPackTest.AssemblyInfo.cs
+c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Release\netstandard2.0\NuGetPackTest.csproj.CopyComplete
+c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Release\netstandard2.0\NuGetPackTest.dll
+c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Release\netstandard2.0\NuGetPackTest.pdb

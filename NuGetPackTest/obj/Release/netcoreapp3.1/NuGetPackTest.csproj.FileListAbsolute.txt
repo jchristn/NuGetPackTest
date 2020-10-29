@@ -1,0 +1,12 @@
+c:\code\misc\NuGetPackTest\NuGetPackTest\bin\Release\netcoreapp3.1\LICENSE.md
+c:\code\misc\NuGetPackTest\NuGetPackTest\bin\Release\netcoreapp3.1\NuGetPackTest.deps.json
+c:\code\misc\NuGetPackTest\NuGetPackTest\bin\Release\netcoreapp3.1\NuGetPackTest.dll
+c:\code\misc\NuGetPackTest\NuGetPackTest\bin\Release\netcoreapp3.1\NuGetPackTest.pdb
+c:\code\misc\NuGetPackTest\NuGetPackTest\bin\Release\netcoreapp3.1\TestLibrary.dll
+c:\code\misc\NuGetPackTest\NuGetPackTest\bin\Release\netcoreapp3.1\TestLibrary.pdb
+c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Release\netcoreapp3.1\NuGetPackTest.csprojAssemblyReference.cache
+c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Release\netcoreapp3.1\NuGetPackTest.AssemblyInfoInputs.cache
+c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Release\netcoreapp3.1\NuGetPackTest.AssemblyInfo.cs
+c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Release\netcoreapp3.1\NuGetPackTest.csproj.CopyComplete
+c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Release\netcoreapp3.1\NuGetPackTest.dll
+c:\code\misc\NuGetPackTest\NuGetPackTest\obj\Release\netcoreapp3.1\NuGetPackTest.pdb

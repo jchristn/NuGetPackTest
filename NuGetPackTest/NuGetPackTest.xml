@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NuGetPackTest</name>
+    </assembly>
+    <members>
+        <member name="T:NuGetPackTest.AnotherFoo">
+            <summary>
+            I literally just emulate foo.
+            </summary>
+        </member>
+        <member name="M:NuGetPackTest.AnotherFoo.Add(System.Int32,System.Int32)">
+            <summary>
+            I ask foo to add y to x.
+            </summary>
+            <param name="x">Integer.</param>
+            <param name="y">Integer.</param>
+            <returns>Integer.</returns>
+        </member>
+        <member name="M:NuGetPackTest.AnotherFoo.Subtract(System.Int32,System.Int32)">
+            <summary>
+            I ask foo to subtract x from y.
+            </summary>
+            <param name="x">Integer.</param>
+            <param name="y">Integer.</param>
+            <returns>Integer.</returns>
+        </member>
+        <member name="M:NuGetPackTest.AnotherFoo.#ctor">
+            <summary>
+            Give me life!
+            </summary>
+        </member>
+    </members>
+</doc>

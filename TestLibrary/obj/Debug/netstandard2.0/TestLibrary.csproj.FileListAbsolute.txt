@@ -1,0 +1,9 @@
+c:\code\misc\NuGetPackTest\TestLibrary\bin\Debug\netstandard2.0\TestLibrary.deps.json
+c:\code\misc\NuGetPackTest\TestLibrary\bin\Debug\netstandard2.0\TestLibrary.dll
+c:\code\misc\NuGetPackTest\TestLibrary\bin\Debug\netstandard2.0\TestLibrary.pdb
+c:\code\misc\NuGetPackTest\TestLibrary\bin\Debug\netstandard2.0\TestLibrary.xml
+c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.csprojAssemblyReference.cache
+c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.AssemblyInfoInputs.cache
+c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.AssemblyInfo.cs
+c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.dll
+c:\code\misc\NuGetPackTest\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.pdb
